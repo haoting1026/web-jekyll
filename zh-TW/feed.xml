@@ -1,4 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2018-08-17T00:05:13+00:00</updated><id>/zh-TW/</id><author><name>PDIS</name></author><entry><title type="html">商周專欄：AI 與老師傅</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/" rel="alternate" type="text/html" title="商周專欄：AI 與老師傅" /><published>2018-07-19T00:00:00+00:00</published><updated>2018-07-19T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/">&lt;p&gt;颱風剛過，帶來豐沛的雨量。這是臺灣的福氣，夏季用水不虞匱乏；但這幾年來，穩定供水一直是臺灣面臨的挑戰。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2018-08-17T00:11:59+00:00</updated><id>/zh-TW/</id><author><name>PDIS</name></author><entry><title type="html">商周專欄：與無人車共舞</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E8%88%87%E7%84%A1%E4%BA%BA%E8%BB%8A%E5%85%B1%E8%88%9E/" rel="alternate" type="text/html" title="商周專欄：與無人車共舞" /><published>2018-08-16T00:00:00+00:00</published><updated>2018-08-16T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E8%88%87%E7%84%A1%E4%BA%BA%E8%BB%8A%E5%85%B1%E8%88%9E</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E8%88%87%E7%84%A1%E4%BA%BA%E8%BB%8A%E5%85%B1%E8%88%9E/">&lt;p&gt;週末時，我很喜歡逛住處附近的建國花市。看到人們扛著盆栽奮力走向停車場，或頂著大太陽攔車時，我總在思考：有沒有更便捷的可能？&lt;/p&gt;
+
+&lt;p&gt;🚦 臺灣汽機車數量繁多，已經不是新聞。根據環保署統計，臺灣有超過 1300 萬輛機車，每平方公里平均 380 輛，居亞洲之冠。即使汽車也有將近 800 萬輛。&lt;/p&gt;
+
+&lt;p&gt;💡 如此高密度的車輛，對地狹人稠的臺灣空氣品質和交通安全，都造成不小的影響。這樣的問題如何改善？無人載具是一個可能的方向。&lt;/p&gt;
+
+&lt;p&gt;🚲 2016 年我入閣前，在巴黎和 MIT 媒體實驗室（Media Lab）的朋友討論過無人載具的發展。入閣之後，我也建議他們將空總社創中心作為舉辦黑客松的場地，讓「智慧三輪車」有機會和一般人互動。&lt;/p&gt;
+
+&lt;p&gt;🚸 智慧三輪車有什麼特殊之處？它透過開放源碼、開放資料，讓人工智慧（Artificial Intelligence, AI）和群眾智慧（Collective Intelligence, CI）彼此加強、一起探索新的互動方式。&lt;/p&gt;
+
+&lt;p&gt;🛣 目前，許多人對於無人載具仍然抱持疑慮。在我看來，它們其實就像新的物種。現在我們開車，是透過打燈號和駕駛，來觀察旁邊車子的意向。無人車則可以透過車聯網接收附近的訊號，讓彼此更有智慧地使用道路。載具上的的感測器，也可以蒐集附近的交通狀況，除了自主學習，也可以幫助整個城市更了解自己。&lt;/p&gt;
+
+&lt;p&gt;🐎 人類對於這樣的新物種，在學習共存的過程中，難免碰到挑戰。能夠有一個實驗場地，讓無人載具在裡面盡情測試、模擬實際情境，是現階段最重要的事。我有一次去加州的 GoMentum 測試場參觀，看著場地裡的無人車，感覺就像身邊環繞著動物，可以和人們透過互動，一起找出未來運作的可能。&lt;/p&gt;
+
+&lt;p&gt;🏙 因此，已經動工的臺南沙崙科學城，讓我非常期待。佔地 2.2 公頃的臺南沙崙科學城，除了有專門的測試場域之外，也可以從行控中心觀察車輛的行動。想像一下：走進沙崙科學城之後，身邊經過的、甚至從園區門口搭的都是無人車，整個科學城都可以成為載具的體驗場。&lt;/p&gt;
+
+&lt;p&gt;從馬車到汽車，每次交通工具的演化，都重塑了我們的社會。等到人工智慧成為城市裡的一份子，我們的日常生活也會隨之改變。比如逛完建國花市以後，按一個鍵，「智慧三輪車」就能幫忙把盆栽載回家，我期待這一天的到來。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">看到人們扛著盆栽奮力走向停車場，或頂著大太陽攔車時，我總在思考：有沒有更便捷的可能？</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/f/f6d7a369567dd01fa82c40d4de1b219b8d0b0c43.jpg" /></entry><entry><title type="html">商周專欄：AI 與老師傅</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/" rel="alternate" type="text/html" title="商周專欄：AI 與老師傅" /><published>2018-07-19T00:00:00+00:00</published><updated>2018-07-19T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-AI-%E8%88%87%E8%80%81%E5%B8%AB%E5%82%85/">&lt;p&gt;颱風剛過，帶來豐沛的雨量。這是臺灣的福氣，夏季用水不虞匱乏；但這幾年來，穩定供水一直是臺灣面臨的挑戰。&lt;/p&gt;
 
 &lt;p&gt;🚰 大家可能不知道，臺灣有超過一半的水管，仍是 30 年前為了普及自來水而採用的塑膠水管。這些塑膠管限於經費，無法全面更換，導致目前全臺水管漏水率高達 15%，每年因管線損失的水將近 10 億噸。&lt;/p&gt;
 
@@ -435,26 +451,4 @@
 
 &lt;p&gt;在軟體發展上，過往政府常常是由部會自行撰寫需求建議書，廠商也只能依照這個建議書製作軟體，導致規格不一定符合需要。目前已經在制定「&lt;a href=&quot;https://join.gov.tw/policies/detail/fd1415a8-a8fd-44bc-b5a4-6447918c9ab0&quot; target=&quot;_blank&quot;&gt;政府數位服務準則&lt;/a&gt;」草案，包含了解使用者需求、建立跨領域合作機制、規劃多元服務管道等 13 項準則，期待能透過引入類似美國、英國、澳洲的數位發展引導方向，推動以使用者為中心的政府數位服務，也提供各個政府機關，作為推動數位服務的參考。&lt;/p&gt;
 
-&lt;p&gt;這些規劃，都是為了改善政府提供數位服務的能力。我們期待未來能透過鼓勵公務機關採用的方式，逐步讓公務機關了解服務設計的重點，將資料治理與資料開放的精神，在政府的公務文化裡紮根。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">這幾個小條文，從Open API、Open Source到服務設計，期待能透過制度的制定，讓政府的數位服務有更多的可能。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/9/96d0477d55ad51fa59ef9929100ef78c238d0908_1_690x487.jpg" /></entry><entry><title type="html">商周專欄：使命無價 商機無限</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90/" rel="alternate" type="text/html" title="商周專欄：使命無價 商機無限" /><published>2018-03-01T00:00:00+00:00</published><updated>2018-03-01T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%BF%E5%91%BD%E7%84%A1%E5%83%B9-%E5%95%86%E6%A9%9F%E7%84%A1%E9%99%90/">&lt;p&gt;社會企業的使命，是不是可以轉化成無限商機？從芙彤園和 2021 社會企業的作法，或可確認。&lt;/p&gt;
-
-&lt;p&gt;🏡 走進高雄桃源區的曬梅屋，滿室梅香撲鼻而來。為我們導覽的農民高先生說，這些「梅胚」再經加工，即可製成梅醬、梅乾，這些正是 2021 的主打產品。&lt;/p&gt;
-
-&lt;p&gt;莫拉克風災後，為讓重建後的小林村真正扎根，時任小林重建發展協會會長蔡松諭開始尋找在地產業。偶然發現以小林梅製作的「老梅膏」後，他以當地的國道 20、21 線為名，創立 2021 社會企業，致力發展「梅子經濟」。&lt;/p&gt;
-
-&lt;p&gt;💰 「人家說給他魚吃，不如教他釣魚，而我們在造魚塭。」蔡松諭說，農民銷售青梅平均每公斤只有 10 元，而他們和梅農簽約契作、指導釀梅技術，以每公斤 35 元的價格購買梅胚，利潤直接回饋農民。&lt;/p&gt;
-
-&lt;p&gt;未來，2021 也將發展休閒農業，「梅好經濟圈」的發展，指日可待。&lt;/p&gt;
-
-&lt;p&gt;🍀 中央山脈的另一邊，則是遍地馥郁芬芳。走進閒置十多年的尚德國小，尚德社區協會理事長陳人鼎熱情導覽，他隨手一摘，便是薄荷葉、檸檬草。原來，他們認養尚德國小，將其改造為香草實驗室。&lt;/p&gt;
-
-&lt;p&gt;早在日本帝國時代，尚德村就是香草種植基地。辭職返鄉的陳人鼎決定以此復興社區，投入試種、邀請居民共同耕作。現在，當地香草種植面積已達七公頃，優良的環境品質也吸引不少合作對象，主打天然洗沐用品的社會企業「芙彤園」，就是其中之一。&lt;/p&gt;
-
-&lt;p&gt;🌱 由於芙彤園標榜零化學添加，做為原料的香草品質便馬虎不得，為此執行長詹茹惠跑遍臺灣。&lt;/p&gt;
-
-&lt;p&gt;臺東的土地和水質極佳，加上尚德不施肥、不撒農藥的自然農法，與她的理念一拍即合，芙彤園甚至直接在當地生產、包裝。&lt;/p&gt;
-
-&lt;p&gt;🌎 堅持理念，讓芙彤園逐漸站穩腳步。去年起，芙彤園進駐超商通路，也打入國際市場。詹茹惠透露，在加拿大時，她曾碰到某知名企業的 CSR 採購，當對方了解芙彤園的社企理念後，便表示不再議價，直接以原價訂購。&lt;/p&gt;
-
-&lt;p&gt;2021 和芙彤園的經驗讓我看見：社會使命不只是無價資產，更蘊含極高的商業價值。社會企業如何永續發展？答案就在社企自己身上。&lt;/p&gt;
-
-&lt;center&gt;&lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/7/7050491395513bb3e95c9ff4339c622ac891388d.jpg&quot; width=&quot;690&quot; height=&quot;500&quot; /&gt;&lt;/center&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會企業" /><summary type="html">社會企業的使命，是不是可以轉化成無限商機？從芙彤園和2021社會企業的作法，或可確認。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/7/7050491395513bb3e95c9ff4339c622ac891388d.jpg" /></entry></feed>
+&lt;p&gt;這些規劃，都是為了改善政府提供數位服務的能力。我們期待未來能透過鼓勵公務機關採用的方式，逐步讓公務機關了解服務設計的重點，將資料治理與資料開放的精神，在政府的公務文化裡紮根。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">這幾個小條文，從Open API、Open Source到服務設計，期待能透過制度的制定，讓政府的數位服務有更多的可能。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/9/96d0477d55ad51fa59ef9929100ef78c238d0908_1_690x487.jpg" /></entry></feed>
