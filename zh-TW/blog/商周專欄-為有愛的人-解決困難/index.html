@@ -46,16 +46,6 @@
 </script>
 
 
-
-    <script>
-        var lang = navigator.language || navigator.userLanguage;
-        var lang_tw = lang.indexOf('zh-TW') == 0
-        var url_tw = window.location.pathname.indexOf('/zh-TW') ==0
-        if(lang_tw && !url_tw)
-            window.location = window.location.href.replace(/\/en/,'/zh-TW');
-        if(!lang_tw && url_tw)
-        window.location = window.location.href.replace(/\/zh-TW/,'/en');
-    </script>
     
 </head>
 
