@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-03-08T15:03:49+00:00</updated><id>/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">商周專欄：守護大武山的一杯咖啡</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1/" rel="alternate" type="text/html" title="商周專欄：守護大武山的一杯咖啡" /><published>2019-01-31T00:00:00+00:00</published><updated>2019-01-31T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1/">&lt;p&gt;這個月初，國發會邀集新一屆行政院青年諮詢委員，舉辦&lt;a href=&quot;&quot;&gt;「地方創生國家戰略計畫」政策座談&lt;/a&gt;。與會者 &lt;a href=&quot;https://advisory.yda.gov.tw/02/userpost/27&quot;&gt;Fuyung Xiyi（林家豪）&lt;/a&gt;分享自己經營原住民電腦資訊勞動合作社的經驗，認為導入科技支持地方產業改革時，應該讓族人合作培養技術人才，文化才能永續。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-03-08T15:27:31+00:00</updated><id>/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">商周專欄：你來許願，全民「還願」</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%A0%E4%BE%86%E8%A8%B1%E9%A1%98-%E5%85%A8%E6%B0%91-%E9%82%84%E9%A1%98/" rel="alternate" type="text/html" title="商周專欄：你來許願，全民「還願」" /><published>2019-03-07T00:00:00+00:00</published><updated>2019-03-07T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%A0%E4%BE%86%E8%A8%B1%E9%A1%98,%E5%85%A8%E6%B0%91%E3%80%8C%E9%82%84%E9%A1%98%E3%80%8D</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%A0%E4%BE%86%E8%A8%B1%E9%A1%98-%E5%85%A8%E6%B0%91-%E9%82%84%E9%A1%98/">&lt;p&gt;三月的第二個週六，是 g0v 零時政府第三十三次黑客松。我看到&lt;a href=&quot;https://g0v-jothon.kktix.cc/events/g0v-hackath33n&quot;&gt;報名頁面&lt;/a&gt;，想起第一次辦黑客松時的自己。那是十四年前，我在一年內辦了十四場黑客松。&lt;/p&gt;
+
+&lt;p&gt;🌐 當時我存了一些錢，決定放自己半年假，投入新程式語言 Perl 6 的實現。當我在 Freenode 平台上提出這個點子以後，很快就有數百位夥伴加入協作，我也因此走遍世界各地，四處結交志同道合的朋友。&lt;/p&gt;
+
+&lt;p&gt;🏃 什麼是黑客松（Hackathon）呢？它是 Hack + Marathon 的組合字，Hack 指的是快速完成任務、解決問題，如果又是一群人「馬拉松式」的聚在一起，完成想做的事，就是黑客松。&lt;/p&gt;
+
+&lt;p&gt;🕯 在辦這十四場黑客松的過程中，我發現一個訣竅：很多事情只要動手實作，然後公開說「這實在是太困難了，大家可不可以來幫一點忙？」每次講這句話的時候就萬試萬靈，知道這件事的人都會拔刀相助。&lt;/p&gt;
+
+&lt;p&gt;🧞 多年後，我在 &lt;a href=&quot;https://grants.g0v.tw/&quot;&gt;g0v 公民科技獎助金&lt;/a&gt;的「許願池」制度中，看到當時這個想法的具體樣貌。許願池讓任何有想法的人，能對公眾「許願」——寫下點子，任何有意願和興趣的人都可以認領、完成這個點子。&lt;/p&gt;
+
+&lt;p&gt;🏆 今年即將舉辦第二屆的「&lt;a href=&quot;https://presidential-hackathon.taiwan.gov.tw&quot;&gt;總統盃黑客松&lt;/a&gt;」，同樣設置了「公民許願池」，有好主意可是自己沒有空做的人，就可以許願，讓有時間的人來協作。&lt;/p&gt;
+
+&lt;p&gt;🗳 這次總統盃的提案票選，將採用 2013 年新發明的「平方投票法」（Quadratic Voting, QV）：每個人都有固定額度的點數，如果喜歡某個案子，投一票，只需 1 點，但如果要投兩票，就要花 4 點，以此類推，也就是付出的點數是票數的平方。在票數越多越貴的情況下，獲選的勢必是社會最殷切期待的提案。&lt;/p&gt;
+
+&lt;p&gt;🏙 此外，這次也開放縣市首長提案。許多做社會創新工作的朋友常和我說，臺灣各地風貌萬千，各地的困難和潛力差異極大。由最了解地方需求和問題的首長出題，正是為了讓全民一起找答案，為地方注入活水。&lt;/p&gt;
+
+&lt;p&gt;🚸 非洲班圖語有個詞叫做 Ubuntu，意思是：人不是單獨存在，而是透過互相支援、幫助，才能夠完成、超越自己。&lt;/p&gt;
+
+&lt;p&gt;🌏 透過幫助他人來連結世界，這是我十四年前體悟的道理。期待更多人能分享所學、貢獻所長，讓每一次黑客松，都成為 Ubuntu 精神的實踐。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">今年即將舉辦第二屆的「總統盃黑客松」，同樣設置了「公民許願池」，有好主意可是自己沒有空做的人，就可以許願，讓有時間的人來協作。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/4/4cd56562902bcfb46c32309b5d438cbdc4d1dc2d.jpeg" /></entry><entry><title type="html">商周專欄：守護大武山的一杯咖啡</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1/" rel="alternate" type="text/html" title="商周專欄：守護大武山的一杯咖啡" /><published>2019-01-31T00:00:00+00:00</published><updated>2019-01-31T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%AE%88%E8%AD%B7%E5%A4%A7%E6%AD%A6%E5%B1%B1%E7%9A%84%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1/">&lt;p&gt;這個月初，國發會邀集新一屆行政院青年諮詢委員，舉辦&lt;a href=&quot;&quot;&gt;「地方創生國家戰略計畫」政策座談&lt;/a&gt;。與會者 &lt;a href=&quot;https://advisory.yda.gov.tw/02/userpost/27&quot;&gt;Fuyung Xiyi（林家豪）&lt;/a&gt;分享自己經營原住民電腦資訊勞動合作社的經驗，認為導入科技支持地方產業改革時，應該讓族人合作培養技術人才，文化才能永續。&lt;/p&gt;
 
 &lt;p&gt;☕ 這讓我想起在屏東嚐到的一杯咖啡。這杯咖啡來自 Ulaljuc（吾拉魯滋）部落，背後有一段原鄉創生的故事。&lt;/p&gt;
 
@@ -506,22 +524,4 @@
 
 &lt;p&gt;公務同仁則指出，其實在會前已經有預測到一些討論狀況，這些不同利害關係人考慮到的東西都需要納入討論。不過，現在是在可行性評估，可以把這次協作會議的意見納入做一些後續調整，也可以做好一些未來的心理準備。不過，他也提醒，遊艇業者自己很顧慮安全，但是站在公家機關的立場，並不是所有人都這樣顧慮安全，有些業者進入門檻不高，可能不會負責安全，這可能是討論時需要適度釐清的問題。&lt;/p&gt;
 
-&lt;p&gt;有與會者指出，此次只有找到船宿業者，結果討論方向就容易聚焦在船宿潛水的生態旅遊方案；或許還可以思考是不是可以有更多樣的利害關係人，像是生態業者等等，讓更多元的意見一起進來討論。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">PDIS於10月26日與海委會、內政部於高雄海委會辦公室召開協作會議，討論東沙島開放觀光之相關議題，並進一步討論可能的生態旅遊方案。與會者建議，可從船宿潛水開始開放生態旅遊。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/5/508e98724d451ff4cbb7619580698debd7d29885.JPG" /></entry><entry><title type="html">商周專欄：時雨不先，適當其時</title><link href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%99%82%E9%9B%A8%E4%B8%8D%E5%85%88-%E9%81%A9%E7%95%B6%E5%85%B6%E6%99%82/" rel="alternate" type="text/html" title="商周專欄：時雨不先，適當其時" /><published>2018-10-10T00:00:00+00:00</published><updated>2018-10-10T00:00:00+00:00</updated><id>/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%99%82%E9%9B%A8%E4%B8%8D%E5%85%88,%E9%81%A9%E7%95%B6%E5%85%B6%E6%99%82</id><content type="html" xml:base="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%99%82%E9%9B%A8%E4%B8%8D%E5%85%88-%E9%81%A9%E7%95%B6%E5%85%B6%E6%99%82/">&lt;p&gt;今年 9 月聯合國大會期間，我在紐約認識了一位身世幾乎可用「傳奇」來形容的朋友。&lt;/p&gt;
-
-&lt;p&gt;👩 她叫 Mariéme Jamme，是英國 iamtheCODE 組織的創辦人，這是一個支持年輕女性學習程式設計的社會企業。&lt;/p&gt;
-
-&lt;p&gt;⛈ Mariéme 為什麼會成立這個組織？她出生塞內加爾鄉下，13 歲時，被人口販子偷渡到巴黎、遭受性剝削，15 歲在街頭流浪時遭警方逮捕。由於沒有機會接受教育，直到 16 歲前，她幾乎不會讀寫，只能做些低階的勞力工作維生。&lt;/p&gt;
-
-&lt;p&gt;📖 不想向命運投降的她，一有空檔，就泡在公立圖書館裡，背字典、讀百科全書，甚至自學試算表和程式語言，一步一步走到今天，也獲得了蓋茲基金會、UNICEF 年度創新獎的肯定。&lt;/p&gt;
-
-&lt;p&gt;💻 2016 年，她成立 iamtheCODE，就是想幫助更多像她這樣的女孩，從厄運手中搶回人生主導權。&lt;/p&gt;
-
-&lt;p&gt;👓 Mariéme 告訴我一個小故事。今年，她在英國利物浦舉辦黑客松時，來了一位年輕女孩，她總是戴著眼鏡，不發一語。Mariéme 和她攀談時發現，原來她曾經因為性別認同，遭受霸凌。這個害羞的女孩，後來在兩天 24 小時的黑客松中，成功開發出反霸凌的社群互助平台，結合其他看起來不「主流」的孩子，建立自我肯定、抵抗霸凌。&lt;/p&gt;
-
-&lt;p&gt;🏡 這個小故事，讓我想起 9 月初在愛丁堡參加的「社會企業世界論壇」大會，也有兩個類似的案例。&lt;/p&gt;
-
-&lt;p&gt;👂 Solar Ear 的創辦人 Howard Weinstein 從非洲開始，開發以太陽能充電的助聽器，並聘請聽障人士，讓他們主導製作流程、製作適合自己需求的器材；MIT 實驗室與 Baan Dek Foundation 發起的「數位超級英雄學院」（DSHA），則是看見南亞的弱勢兒童，缺乏對自身處境的批判思考和社會刺激，便和當地的社工開發了一款互動教材，讓孩童很快就能學到實用生活技能。&lt;/p&gt;
-
-&lt;p&gt;🌱 我想，這些故事都體現了「適當科技」（appropriate technology）的內涵：不在於用先進、新穎的技術「拯救」需要幫忙的人，而是讓對方「掌握」工具，從自身需求出發、讓生活變得更好，就像當年 Mariéme 學習試算表和程式語言，及時改變了自己的人生。&lt;/p&gt;
-
-&lt;p&gt;🌍 「我們的目標是在 2030 年前，在非洲、中東及南美等發展中國家，培養出一百萬名女性程式設計師，」Mariéme 堅定地和我說。我相信，那個害羞的女孩，一定也是其中之一。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">今年 9 月聯合國大會期間，我在紐約認識了一位身世幾乎可用「傳奇」來形容的朋友。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/dd5164b6b018cbb27d2782ab6542d501c8f7788f.jpg" /></entry></feed>
+&lt;p&gt;有與會者指出，此次只有找到船宿業者，結果討論方向就容易聚焦在船宿潛水的生態旅遊方案；或許還可以思考是不是可以有更多樣的利害關係人，像是生態業者等等，讓更多元的意見一起進來討論。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">PDIS於10月26日與海委會、內政部於高雄海委會辦公室召開協作會議，討論東沙島開放觀光之相關議題，並進一步討論可能的生態旅遊方案。與會者建議，可從船宿潛水開始開放生態旅遊。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/5/508e98724d451ff4cbb7619580698debd7d29885.JPG" /></entry></feed>
