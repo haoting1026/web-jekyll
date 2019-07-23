@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://pdis.nat.gov.tw/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pdis.nat.gov.tw/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-07-23T05:56:58+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">走出平面國：機器學習和二元黨派的終結</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/" rel="alternate" type="text/html" title="走出平面國：機器學習和二元黨派的終結" /><published>2019-07-23T00:00:00+00:00</published><updated>2019-07-23T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B:%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://pdis.nat.gov.tw/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pdis.nat.gov.tw/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-07-23T06:02:23+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">走出平面國：機器學習和二元黨派的終結</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/" rel="alternate" type="text/html" title="走出平面國：機器學習和二元黨派的終結" /><published>2019-07-23T00:00:00+00:00</published><updated>2019-07-23T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B:%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://civichall.org/civicist/beyond-flatland-machine-learning-end-two-party-binary/&quot;&gt;英文版&lt;/a&gt; 由原作者 &lt;strong&gt;Colin Megill&lt;/strong&gt; 於 2019 年 6 月 24 日發布。中文翻譯由&lt;strong&gt;唐鳳&lt;/strong&gt;採 CC BY-NC-SA 4.0 授權發佈。&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -8,7 +8,7 @@
 
 &lt;p&gt;世界上有數千個重疊的利益團體，而非僅是兩個政黨。還有成千上萬的議題和子議題，不僅是媒體在選舉期間中關注的少數議題。&lt;/p&gt;
 
-&lt;p&gt;選舉和公民投票，嚴重限制了人們能向管理政黨所發送的資訊。例如，目前將群眾意志壓縮到黨派平台的方法，使 42％ 的美國人現在被認定為無黨派人士，而且他們的聲音都被排除在政策制定過程之外。&lt;/p&gt;
+&lt;p&gt;選舉和公民投票，嚴重限制了人們能對政府部門發送的資訊。例如，目前將群眾意志壓縮到黨派政見的方法，使 42% 的美國人現在被認定為無黨派人士，而且他們的聲音都被排除在政策制定過程之外。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/euflbdw5d0uafxwbcx14dg.png&quot; alt=&quot;Gallup party identification independents&quot; /&gt;&lt;/p&gt;
 
@@ -60,7 +60,7 @@
 
 &lt;p&gt;有些明顯的意見集群出現了：贊成倫齊集權的人，以及另一群反對的人。但是，一位參與者單刀直入的聲明，獲得了一致支持：「公民投票不是選舉的替代品。」無論他們的立場或專業程度如何，參與者都同意，倫齊「如果公投失利，就要辭職」的威脅，減損了公民投票的效力，導致各方面的政治對手一致堅決反對，無論他們原先對憲法的立場如何。&lt;/p&gt;
 
-&lt;p&gt;與此同時，在其他陳述裡可以很明顯看到，有些倫齊的反對者對於修憲，其實抱持著開放的態度的。從二元公投的角度看來，這應該是絕對兩極分化的議題。但是，群眾其實有著複雜而微妙的觀點、願意權衡考慮各種主張，並且渴望挑戰現行的意見傳達程序。&lt;/p&gt;
+&lt;p&gt;與此同時，在其他陳述裡可以很明顯看到，有些倫齊的反對者對於修憲，其實抱持著開放的態度。從二元公投的角度看來，這應該是絕對兩極分化的議題。但是，群眾其實有著複雜而微妙的觀點、願意權衡考慮各種主張，並且渴望挑戰現行的意見傳達程序。&lt;/p&gt;
 
 &lt;p&gt;我們在全世界推動公民參與時，一次又一次看到相同的作用模式。&lt;/p&gt;
 
