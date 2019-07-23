@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://pdis.nat.gov.tw/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pdis.nat.gov.tw/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-07-23T05:06:05+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">蘋果專欄：增進台美經貿 不只是旁觀</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80/" rel="alternate" type="text/html" title="蘋果專欄：增進台美經貿 不只是旁觀" /><published>2019-07-12T00:00:00+00:00</published><updated>2019-07-12T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80/">&lt;p&gt;🌐 不少人認為，國際關係是外交部的工作，交給專業的外交人員處理就好。然而，隨著公眾外交、數位外交的全面興起，以及我們獨特的國際處境，在在都提醒著，外交事務不僅是政府的工作，更需要社會與企業的共同參與，才能另闢新徑、眾志成城。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://pdis.nat.gov.tw/zh-TW/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pdis.nat.gov.tw/zh-TW/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2019-07-23T05:44:33+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/feed.xml</id><author><name>PDIS</name></author><entry><title type="html">走出平面國：機器學習和二元黨派的終結</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/" rel="alternate" type="text/html" title="走出平面國：機器學習和二元黨派的終結" /><published>2019-07-23T00:00:00+00:00</published><updated>2019-07-23T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B:%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E8%B5%B0%E5%87%BA%E5%B9%B3%E9%9D%A2%E5%9C%8B-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%92%8C%E4%BA%8C%E5%85%83%E9%BB%A8%E6%B4%BE%E7%9A%84%E7%B5%82%E7%B5%90/">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://civichall.org/civicist/beyond-flatland-machine-learning-end-two-party-binary/&quot;&gt;英文版&lt;/a&gt; 由原作者&lt;strong&gt;Colin Megill&lt;/strong&gt;於 2019 年 6 月 24 日發布。&lt;/li&gt;
+  &lt;li&gt;中文翻譯由&lt;strong&gt;唐鳳&lt;/strong&gt;採 CC BY-NC-SA 4.0 授權發佈。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在全世界的民主國家裡，數十億公民擁有無數從未說出口的利益、觀點和立場。政治的實際現況，比目前的政治符號和類別允許我們表達的，要來得複雜許多。&lt;/p&gt;
+
+&lt;p&gt;我們的政治選擇，受到既有抽象概念的人為限制。這些抽象概念，不是將我們精簡成兩大對立政黨，就是在比例代表制的情況下，歸為數個較小的政黨。但無論哪種方式，都壓抑了人們真實意見的複雜程度。&lt;/p&gt;
+
+&lt;p&gt;世界上有數千個重疊的利益團體，而非僅是兩個政黨。還有成千上萬的議題和子議題，不僅是媒體在選舉期間中關注的少數議題。&lt;/p&gt;
+
+&lt;p&gt;選舉和公民投票，嚴重限制了人們能向管理政黨所發送的資訊。例如，目前將群眾意志壓縮到黨派平台的方法，使 42％ 的美國人現在被認定為無黨派人士，而且他們的聲音都被排除在政策制定過程之外。&lt;/p&gt;
+
+&lt;p&gt;英國的數字大致相同，脫歐後尤其如此。&lt;a href=&quot;https://www.independent.co.uk/news/uk/politics/new-centrist-party-politically-homeless-brexit-labour-conservative-poll-a8312991.html&quot;&gt;獨立報的調查&lt;/a&gt;顯示，「百萬選民在政治上感到無家可歸，並考慮支持一個新的中間黨派……接近一半的受訪者表示，他們認為沒有任何既定黨派能作為自己的代表，而新組織將有機會贏得他們的選票。」&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.economist.com/sites/default/files/imagecache/1000-width/images/2019/06/articles/main/20190615_woc221_0.png&quot; alt=&quot;https://www.economist.com/sites/default/files/imagecache/1000-width/images/2019/06/articles/main/20190615_woc221_0.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;作為民主的參與者，我們所看到的世界，很大程度上受到「民意代表允許我們看到什麼」的影響。政黨就像是一張非常低解析度的照片，模糊了選民「真正想要什麼、願意接受什麼」的重要面項。更糟糕的是，黨派平台拋棄了共識的議題，反而偏好對獲取權力更有用的分化議題。&lt;/p&gt;
+
+&lt;p&gt;像是英國脫歐公投，將數千個議題包含在一個二元投票中，只剩下「離開」或「留下」的視角，這就是政治的縮影。現代政治中的兩極分化與僵局的這種禍害，是我們過度簡化公民參與方式的後果，而不是我們的憲法、政府結構或人口的特性。我們生活在一個政治二維世界，因為我們思考自己和他人的工具與分類，都是膚淺、沒有深度的。&lt;/p&gt;
+
+&lt;p&gt;作為公民的一分子，怎樣才能使我們的政治空間更具有意義，讓我們的社會整體，有更多的維度、更細緻的解析度？為了回答這個問題，我們需要尋找公民參與的替代方法，不能只靠少數的關鍵投票——例如總統大選，或像英國脫歐這樣的全民公投——來解決所有議題。&lt;/p&gt;
+
+&lt;p&gt;歐巴馬政府的總統信函辦公室，&lt;a href=&quot;https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html&quot;&gt;讓我們看到&lt;/a&gt;直接民意的一種來源與處理過程。在歐巴馬任職期間，白宮每天從人民收到大約一萬封信。這些信由 300 名志願者和幾位專職工作人員組成的小組輪流閱讀，最後為總統每天選擇出 10 封信。&lt;/p&gt;
+
+&lt;p&gt;這 10 封信可以看成「最佳折衷方案」，既廣泛代表了人們的思想和感受，同時也體認到總統無法閱讀和消化所有海量信件內容的事實。這是將人民以自己的文字寫下議題的原始資料，輸入特別具有同理心、質化導向的人工處理程序，用壓縮演算法處理所得的結果。這是一種從根本尊重人民聲音的過程。&lt;/p&gt;
+
+&lt;p&gt;然而，這種做法並不常見。最近，美國聯邦機構的某個主要部門，正面臨一個公眾意見徵詢期，估計會有近百萬條意見湧入，但只有一位聯邦公務員負責審查這百萬條意見文本。在處理企業遊說者的意見時，也會經過同樣的過程。&lt;/p&gt;
+
+&lt;p&gt;雖然我們現在生活在群眾參與的時代，每個人都有表達自己聲音的方式，但政府的結構卻還沒有迎頭趕上。今天的民主國家，在以議題為根本、制定民主政策的設計上，還有許多進步的空間。因此，在選舉期間，每個議題要爭取討論空間時，都面臨著巨大的壓力。可以想見，這個過程會讓公民感到不滿，而政府也無法取得明確的民意授權。&lt;/p&gt;
+
+&lt;p&gt;我們需要可延展的壓縮機制，才能更深入理解公民所提供豐富的質化資料。「歐巴馬信函辦公室」的流程，能不能進一步自動化、擴展和改進呢？&lt;/p&gt;
+
+&lt;p&gt;雖然民主治理的議題需要專門考量，但對資訊業界來說，處理這種大規模的輸入，並不是新的課題。舉例來說，Netflix 通過自動資料蒐集和分析，來推動產品決策：透過影視觀眾的廣泛行為資料，不但可以向觀眾推薦其他節目，也能用來提供新節目製作的決策資訊。這樣的分析結果，推翻了過去認定「哪些人會想看哪些內容」的傳統思維，正如 Janko Roettgers 於 2017 &lt;a href=&quot;https://variety.com/2017/digital/news/netflix-lab-day-behind-the-scenes-1202011105/&quot;&gt;在《綜藝》雜誌中所寫的&lt;/a&gt; ：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;「Netflix 過去常常根據其用戶所在地區推薦內容，畢竟一般認為，南美用戶和加拿大用戶的偏好應該會有差異。但在仔細觀察資料後，公司意識到這並非如此。」 Netflix 產品副總裁 Todd Yellin 表示：「每天我們都發現到，這樣的成見越來越沒有道理。」取而代之的是，Netflix 現在將用戶劃分為 1300 個品味社群，分群的方式完全基於觀看行為。每位用戶都可以屬於多個社群，社群成員則遍布全球。當然，耶林也承認德國喜劇演員可能在德國更受歡迎，但在美國也有很多用戶轉向他們的節目。「『個人化』很重要的部分，就是以全球為範圍，尋找品味社群。」&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;依據資料分析&lt;a href=&quot;https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/&quot;&gt;所建立的類別&lt;/a&gt;，&lt;a href=&quot;https://www.vulture.com/2018/06/how-netflix-swallowed-tv-industry.html&quot;&gt;確實更有利基&lt;/a&gt;，不再是膚淺的&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%B9%B3%E9%9D%A2%E5%9C%8B&quot;&gt;平面國&lt;/a&gt;分類的「喜劇片」或「劇情片」。&lt;/p&gt;
+
+&lt;p&gt;實際上，Netflix 將電影分為 76,000 個類別，如「1980 年代的恐怖靠片」，「精神糧食紀錄片」和「對抗體制影集」。電影也可以屬於多個類別，就像觀眾可以屬於多個品味社群一樣。對於 Netflix 來說，目標很明確：更合適的推薦，以及更多觀看次數，意味著更高的客戶參與度，也更能留住客戶。平台越有價值，人們就越有可能推薦它，新客戶自然會加入。&lt;/p&gt;
+
+&lt;p&gt;機器學習，加上豐厚的利潤動機，造就了有史以來對全球影視觀眾最準確的描繪。&lt;/p&gt;
+
+&lt;p&gt;如今，Netflix（以及我們其他人）都能更準確地看待大群體所建立的訊息，以及其中的更多細節、更精細描述人們的各個面相。Netflix 能「看到」社群的更多偏好，是因為他們提供了比百事達更複雜的偏好空間的詳細描述。如果 Netflix 預先假定只有少數幾個類別──喜劇、戲劇、恐怖片、戰爭片、體育片──不免會限制看到用戶的清晰度。此外，這也會影響用戶看待自己的清晰度，以及他們可用來描述自己的語言。&lt;/p&gt;
+
+&lt;p&gt;想像一下，如果對所有議題，甚至是政府尚未意識到或準備考慮的議題，所有公眾輿論的複雜性都能有相同的細緻度和即時覺察，那會是多好的一件事。&lt;/p&gt;
+
+&lt;p&gt;運用機器學習，確實有更好的方法來呈現公民的意見。讓這些方式進入政策制定過程的意義，或許在於創造出更好的政策結果。面對「占領運動」和「阿拉伯之春」等行動中固有的溝通挑戰，促使我們開發了開源資料科學平台 Polis。&lt;/p&gt;
+
+&lt;p&gt;Polis &lt;a href=&quot;https://www.nesta.org.uk/blog/crowdsourcing-democracy-using-wikisurveys/&quot;&gt;提供了粗略的民族誌&lt;/a&gt;，顯示了人們在各種可能性的範圍裡，達成共識和分歧的領域。其中的數學理論，與 Spotify 或 Netflix 運用的推薦引擎大致相同，也就是尋找人與人之間的相似點、不同點，以及全體共識。&lt;/p&gt;
+
+&lt;p&gt;2016 年秋天，我在義大利都靈的「公民科技學院」 會議上發言。當時義大利關注的焦點，是即將舉行的憲法公投。該次公投將決定行政部門權力的命運，以及倫齊的總統大位。倫齊宣佈公投時，同時威脅如果他努力爭取卻無法獲得集中權力的話，他就要辭職 (結果他輸了，也辭職了)。&lt;/p&gt;
+
+&lt;p&gt;在組織者的要求下，我在 40 名與會者的私密環境中，對公投進行了模擬審議。與會者提交了關於公民投票的意見，他們可能同意或不同意其他與會者提交的意見。當參與者對同儕提交的陳述表達立場、產出意見矩陣之後，Polis 的機器學習演算法就會自動運行。&lt;/p&gt;
+
+&lt;p&gt;試想看看：把試算表裡的每一欄從「電影片名」改成「個人意見」，再把每一列從「觀眾」改為「選民」，最後把每個單元格從「評分」改成「同意與否」。這樣一來，演算法即可找出參與者的意見模式，並且形成集群。&lt;/p&gt;
+
+&lt;p&gt;有些明顯的意見集群出現了——贊成倫齊集權的人，以及另一群反對的人。但是，一位參與者單刀直入的聲明，獲得了一致支持：「公民投票不是選舉的替代品。」無論他們的立場或專業程度如何，參與者都同意，倫齊「如果公投失利，就要辭職」的威脅，減損了公民投票的效力，導致各方面的政治對手一致堅決反對，無論他們原先對憲法的立場如何。&lt;/p&gt;
+
+&lt;p&gt;與此同時，在其他陳述裡可以很明顯看到，有些倫齊的反對者對於修憲，其實抱持著開放的態度的。從二元公投的角度看來，這應該是絕對兩極分化的議題。但是，群眾其實有著複雜而微妙的觀點、願意權衡考慮各種主張，並且渴望挑戰現行的意見傳達程序。&lt;/p&gt;
+
+&lt;p&gt;我們在全世界推動公民參與時，一次又一次看到相同的作用模式。&lt;/p&gt;
+
+&lt;p&gt;2019 年中，Polis 已經受到多國政府採用。在臺灣一個令人注目的案例中，Polis 扮演輸入資料的角色，協助&lt;a href=&quot;https://blog.pol.is/uber-responds-to-vtaiwans-coherent-blended-volition-3e9b75102b9b&quot;&gt;規範優步&lt;/a&gt;的規則制定。事實證明，只要將共同點視覺化，就能克服高度兩極化利益相關者，在複雜議題上的長期僵局，例如臺灣&lt;a href=&quot;https://www.technologyreview.com/s/611816/the-simple-but-ingenious-system-taiwan-uses-to-crowdsource-its-laws/&quot;&gt;酒類網購&lt;/a&gt;的例子。加拿大聯邦政府，也已開展多項相關活動，例如「加拿大視覺藝術市場的未來展望」。&lt;/p&gt;
+
+&lt;p&gt;最近在德國，&lt;a href=&quot;https://aufstehen.de/pol-is/&quot;&gt;超過 30,000 人&lt;/a&gt; 在 Polis 上，針對由數百人所提交的陳述，進行了接近 200 萬次的投票。&lt;/p&gt;
+
+&lt;p&gt;在肯塔基州的鮑靈格林市，哥倫比亞大學主持了一項試點計畫，邀請數千名住在紫色區的美國人 (大約該市人口的 2％) 參與。這項實驗已&lt;a href=&quot;http://www.civic-assembly.org/bowling-green-report/&quot;&gt;編寫為報告&lt;/a&gt;、在&lt;a href=&quot;https://slate.com/news-and-politics/2018/12/political-polarization-bowling-green-study-kentucky-immigration.html&quot;&gt;Slate 刊登&lt;/a&gt;，並由 &lt;a href=&quot;https://civichall.org/civicist/testing-tech-consensus-purple-town/&quot;&gt;Civicist 報導&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;紐西蘭環保部，正在與獨立媒體合作，運用 Polis 促進公眾參與；新加坡文化部，也正與數千名青年進行對話。紐約市遊民服務部，正在與第一線的社工人員對遊民政策進行討論，邀請這些同仁用自己的語言分享親身經歷，並且與同事一起驗證。&lt;/p&gt;
+
+&lt;p&gt;通過抽樣策略，例如每次一萬到兩萬人，這樣的對話可以輕易擴展到民主國家裡，所有具有投票權的公民。萬人以上「永不關機」的公民集會，也是可行的做法。&lt;/p&gt;
+
+&lt;p&gt;我們面臨的挑戰，是如何將新興的運算方法，與牢固的既有政策制定流程，互相結合。此外，我們也必須共同決定：公眾意見的模型，是由開放資料和可驗證的公開方法來定義，還是要用專屬私有、無法被查核的方式來定義。&lt;/p&gt;
+
+&lt;p&gt;在代議民主制度裡，並非每項決定都納入公眾參與。但是，當政府向公民開放以尋求正當性、從人民的生活經驗和偏好中獲取智慧時，民主制度確實可以做得更好。政府可以設定主要議題和次要議題，與民眾進行接觸。政府也可以用豐富而有活力的方式吸引民眾，讓公民知道自己的聲音如何被聽見。政府更可以在決策的前期——當需要解決的議題數量，比法規的頁數還多時——及早邀請公民，來參與議程設定。&lt;/p&gt;
+
+&lt;p&gt;在民主社會裡，協調大規模複雜度的嶄新能力，促使我們重新思考過去「如何代表民意」的各種假設。將來的民主制度，面對民眾提出的大規模質化訊息，必須更有效地管理、整合，以避免極端化帶來的僵局。&lt;/p&gt;
+
+&lt;p&gt;代議制度最初的設計，正是為了不讓政府受到派系掌控。在民主被派系癱瘓的情況下，我們身為公民，應該要秉持民主的初衷，繼續設計更好的系統。&lt;/p&gt;</content><author><name>唐鳳、Colin Megill</name></author><category term="blog" /><category term="社會創新" /><summary type="html">我們身為公民，應該要秉持民主的初衷，繼續設計更好的系統。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/a/a51ab24bd076a61d3d1b07f4ffda418bf88dc724.jpeg" /></entry><entry><title type="html">蘋果專欄：增進台美經貿 不只是旁觀</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80/" rel="alternate" type="text/html" title="蘋果專欄：增進台美經貿 不只是旁觀" /><published>2019-07-12T00:00:00+00:00</published><updated>2019-07-12T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E5%A2%9E%E9%80%B2%E5%8F%B0%E7%BE%8E%E7%B6%93%E8%B2%BF-%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%97%81%E8%A7%80/">&lt;p&gt;🌐 不少人認為，國際關係是外交部的工作，交給專業的外交人員處理就好。然而，隨著公眾外交、數位外交的全面興起，以及我們獨特的國際處境，在在都提醒著，外交事務不僅是政府的工作，更需要社會與企業的共同參與，才能另闢新徑、眾志成城。&lt;/p&gt;
 
 &lt;p&gt;💡 從四月開始，美國在台協會（AIT）、外交部，以及我的辦公室（行政院公共數位創新空間，PDIS）合作推出「『智』同道合–數位對話」（&lt;a href=&quot;https://talkto.ait.org.tw/&quot;&gt;talkto.ait.org.tw&lt;/a&gt;）。這一系列的活動，分別在四、六、八、十月討論如何增進「台灣在全球社會的角色」、「美台經濟與商業關係」、「美台安全合作」、「美台人民的關係」等四大議題。&lt;/p&gt;
 
@@ -225,112 +306,4 @@
 
 &lt;p&gt;💬 從 vTaiwan 的經驗出發，台灣與加拿大、西班牙、丹麥、新加坡各地的開源社群持續改進 Pol.is，加強資安保障、落實歐盟的隱私保護規範，也添加了自動翻譯的功能。今年四月起，美國在台協會（AIT）與行政院的合作，便是以新調整的 Pol.is 為基礎，搭建「數位對話平台」（&lt;a href=&quot;https://talkto.ait.org.tw&quot;&gt;talkto.ait.org.tw&lt;/a&gt;）。&lt;/p&gt;
 
-&lt;p&gt;🌐 這也是第一次，臺美雙方將共同關注的議題，開放讓民眾一起討論。我相信這會成為未來的示範：讓國際合作，不再只是政府與政府的協定，更是人民與人民之間的協力。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">這也是第一次，臺美雙方將共同關注的議題，開放讓民眾一起討論。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/6/6e04f33dd4d43861d4f334783209baec38a555bc.jpeg" /></entry><entry><title type="html">漁港開放有共識：釣魚不應影響漁民作業</title><link href="https://pdis.nat.gov.tw/zh-TW/blog/%E6%BC%81%E6%B8%AF%E9%96%8B%E6%94%BE%E6%9C%89%E5%85%B1%E8%AD%98-%E9%87%A3%E9%AD%9A%E4%B8%8D%E6%87%89%E5%BD%B1%E9%9F%BF%E6%BC%81%E6%B0%91%E4%BD%9C%E6%A5%AD/" rel="alternate" type="text/html" title="漁港開放有共識：釣魚不應影響漁民作業" /><published>2019-04-04T00:00:00+00:00</published><updated>2019-04-04T00:00:00+00:00</updated><id>https://pdis.nat.gov.tw/zh-TW/blog/%E6%BC%81%E6%B8%AF%E9%96%8B%E6%94%BE%E6%9C%89%E5%85%B1%E8%AD%98:%E9%87%A3%E9%AD%9A%E4%B8%8D%E6%87%89%E5%BD%B1%E9%9F%BF%E6%BC%81%E6%B0%91%E4%BD%9C%E6%A5%AD</id><content type="html" xml:base="https://pdis.nat.gov.tw/zh-TW/blog/%E6%BC%81%E6%B8%AF%E9%96%8B%E6%94%BE%E6%9C%89%E5%85%B1%E8%AD%98-%E9%87%A3%E9%AD%9A%E4%B8%8D%E6%87%89%E5%BD%B1%E9%9F%BF%E6%BC%81%E6%B0%91%E4%BD%9C%E6%A5%AD/">&lt;p&gt;2019 年 1 月 30 日，網友俞澤宇於公共政策網路參與平台提議，要求「&lt;a href=&quot;https://join.gov.tw/idea/detail/eac7403b-ec58-4337-a605-7930ff2e8e2c&quot;&gt;全面開放漁港港區釣魚並興建釣魚平台&lt;/a&gt;」。他在提議中指出，港區是安全的釣魚所在，政府應全面開放漁港供釣客釣魚；同時，他也提議一些管理規則，如設置救生器材、風浪過大禁止釣魚、嚴禁丟擲垃圾、不得阻擋漁船出入、應禮讓漁船通行等。&lt;/p&gt;
-
-&lt;p&gt;提案在 2 月 26 連署通過後，行政院依據開放政府聯絡人要點，進行訴求研析及可行性評估，並由主責機關於 4 月 26 日於平台上正式回應；因此，PDIS 於 2019 年 4 月 3 日於八斗子漁會召開協作會議，討論此一議題之可行性。&lt;/p&gt;
-
-&lt;h4 id=&quot;漁港釣魚爭議多-釣客漁民均不滿&quot;&gt;漁港釣魚爭議多 釣客、漁民均不滿&lt;/h4&gt;
-
-&lt;p&gt;釣客團體指出，依據《&lt;a href=&quot;https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0050010&quot;&gt;漁港法&lt;/a&gt;》第 18 條，漁港主管機關在不妨礙港區作業、安全及不造成港區污染情況下，應指定區域，訂定相關措施，公告開放民眾垂釣。但是這個法規訂定後，全台 222 個第一類、第二類漁港，僅有 18 個漁港開放釣魚，大部分的漁港都沒有開放釣客釣魚。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/f/fce01f91eefae8e261b5acf88f9fc44f147eef04.jpeg&quot; /&gt;
-  &lt;figcaption&gt;釣客於漁港釣魚&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;立法院內政委員會在 2019 年預算審查時，要求海巡署積極對不法釣客進行開罰。海巡署的開罰，引發釣客的憤怒，因此才有這次的提案。&lt;/p&gt;
-
-&lt;p&gt;除了公共政策網路參與平台的提案外，釣客亦至立法院及行政院陳情。3 月 21 日的會議上，行政院副院長陳其邁聽取釣客陳情後指示，兩個月內應於全台漁港、商港或其他地區，由交通部、農委會與釣友共同商討出 50 處可以合法釣魚的區域，以政府力量介入，好好規劃與管理。&lt;/p&gt;
-
-&lt;p&gt;由於此次會議預期關心人數較多，除了八斗子漁會二樓的主要會場外，當天也在三樓會議室開設第二會場，以直播方式觀看第一會場的討論。並使用 Sli.do 提問的方式，蒐集第二會場和線上觀看直播民眾的意見。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/8/8b49804d25485a1fff5aae486851b1db1c92ea32.jpeg&quot; /&gt;
-  &lt;figcaption&gt;第二會場&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;雙方互信未建立-部分說法引發質疑&quot;&gt;雙方互信未建立 部分說法引發質疑&lt;/h4&gt;
-
-&lt;p&gt;漁業署副署長首先在協作會議上澄清，陳其邁副院長所提的「50 個釣點」並非「50 個漁港」，也可能是商港等區域，不僅限於漁港。漁業署也於會議上指出，目前《漁港法》已訂有指定區域，訂定相關措施，公告開放民眾垂釣之規定，建議依循現有機制辦理。至於尚未劃設垂釣區的漁港，規劃由各漁港主管機關會同漁會、釣魚團體、海巡單位會勘，一起協商是否劃定開放區域。協商的內容應包含管理機制及收費，相關管理措施可由主管機關會同漁會團體、海巡單位共同協商研訂，由釣魚團體自治管理，並依照使用者付費原則向釣客收取相關費用。&lt;/p&gt;
-
-&lt;p&gt;提案人提供之&lt;a href=&quot;https://www.facebook.com/angelhaung66/videos/2941953119178916/&quot;&gt;影片&lt;/a&gt;指出，漁港是由全體納稅人出錢興建，不應由漁民獨佔。他認為漁港相對安全，政府應開放漁港供大家釣魚；他亦建議要規劃相關管理規則，在港區丟擲垃圾、進入他人船隻等行為應該依法重罰，也不應影響航道。不過，他也指出，在港區亂丟垃圾者不是只有釣客，漁民或遊客也可能丟擲垃圾。&lt;/p&gt;
-
-&lt;p&gt;提案人的說法引發漁會代表的憤怒，他們指出，漁港並非只由政府出資興建，當年興建時，漁民也有提供土地與資金，至今仍要繳納費用。至於提案人影片中的丟垃圾，他們也澄清，那是使用無毒油漆在清潔船隻。許多漁會代表痛陳，釣客在漁港釣魚引發許多亂象，除了丟擲垃圾之外，部分釣客喜歡在航道上使用拋竿的方式釣魚，使漁船攪到釣線，引發許多爭執；漁船通過趕走魚，也會使釣客對漁民不滿。漁會團體也指出，開放釣魚後，一旦發生危險，釣客家屬可能會向政府求償，未來會有很多問題。&lt;/p&gt;
-
-&lt;p&gt;不過，於第二會場的與會者由於收聽聲音不太穩定，加上對於一些發言感到憤怒，因此許多漁民衝到第一會場，希望能表達自己的意見。雖然當場有些混亂，但仍有一些漁民進入發言，表達他們的擔憂，並要求他們的漁會代表退席抗議。&lt;/p&gt;
-
-&lt;h4 id=&quot;形成共識-釣魚不應影響漁民作業&quot;&gt;形成共識 釣魚不應影響漁民作業&lt;/h4&gt;
-
-&lt;p&gt;釣客團體則澄清，他們完全同意釣魚行為不能影響船隻出入與航行安全，也同意不應於漁港中造成髒亂，應該以重罰的方式遏止部分釣客不守規矩的行為。針對安全問題，除了自負安全以外，應規定釣客釣魚時要穿救生衣、防滑鞋，也可以引入保險，讓釣客發生危險後有相應理賠。釣客團體亦提議，可以嘗試採用釣魚證或釣魚票的方式進行管理。雙方發言雖然氣氛較為火爆，但在主持人介入釐清之後，現場已有一定程度之共識。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/7/7b6878475d29d832108bf0fdd4eb914f822adc3a.jpeg&quot; /&gt;
-  &lt;figcaption&gt;主持人釐清議題&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;釣權會發言時指出，台中港地區是他們爭取開放釣客釣魚，很感謝台中區漁會對當地所提供的協助；他們也重申，釣客團體應遵守相關規定，也同意應有合理收費機制，讓釣魚區能有更多資源進行管理，並建議開放膠筏讓釣客搭乘去釣魚，而不用船員證，也讓漁民有額外的收入，創造雙贏。&lt;/p&gt;
-
-&lt;p&gt;地方政府發言則指出，行政院不該在還沒討論之前就承諾開放 50 處釣點，容易引發民眾的疑慮；他們指出，《漁港法》第 18 條中給地方政府的管制措施應該要有全國一致的規定；針對不同地區，如漁港、商港的相同違規事項，目前的罰則落差太大，應該要有統一的裁罰標準。在管制方面，公務員無法在巡查時向民眾要求確認身分，必須要連同海巡、警察一起稽查，這也是公權力使用上的困難之處。新北市政府則主動提出，他們願意以草里漁港作為示範漁港，開放討論管理規則。&lt;/p&gt;
-
-&lt;p&gt;高雄市政府也分享日前成功討論出劃設標準的方式，只要邀請漁會、釣魚團體與地方政府一起討論，雖然氣氛有些火爆，但確實能得到大家都同意的開放標準和具體管理規則。&lt;/p&gt;
-
-&lt;p&gt;照協作會議程序，要進入小組討論時，漁會代表認為輪番發言的方式很好，希望不要進入小組討論；不過，在主持人堅持之下，大家以小組討論方式繼續對話、聚焦討論。分組討論題目為：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;如何在漁會漁民、釣客團體都接受的狀況下，規劃部分適當漁港區域劃設垂釣區供釣客釣魚？&lt;/li&gt;
-  &lt;li&gt;如何落實漁港內垂釣區的經營管理規則，讓漁民作業不受干擾、釣客自律且安全地釣魚、行政機關亦便於管理？&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;雖有漁會提議應討論其他區域的開放原則，但主持人認為此次會議應聚焦於漁港，因此並未同意。&lt;/p&gt;
-
-&lt;h4 id=&quot;分組討論-雙方均認同應顧及多方立場&quot;&gt;分組討論 雙方均認同應顧及多方立場&lt;/h4&gt;
-
-&lt;p&gt;經過一個小時多的討論後，緊接著就是分組報告，報告小組討論的觀點與共識。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/3/31a1c1aa07de6ef7afbdc88a16f2835cfd234874.jpeg&quot; /&gt;
-  &lt;figcaption&gt;小組討論狀況&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;針對第一個問題，如何規畫部分適當港區劃設垂釣區，兩組都有類似的看法：應該邀請主管機關、漁會與釣客團體，一起到場現勘，決定何處適合開放，並進行公告。針對開放區域也應有明顯標示。&lt;/p&gt;
-
-&lt;p&gt;針對第二個問題，如何落實相關的經營管理規則，兩組有不太一樣的看法。第一組認為，主管機關應先提出一些限制要求，再由可自行管理的釣客團體提出經營計畫，並經過各地的釣客、漁會一起討論後，再行開放。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/0bc8e196b4c62417f139f1ef6926468a853014b6.jpeg&quot; /&gt;
-  &lt;figcaption&gt;分組報告&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;但第二組有與會者擔憂，由釣客團體經營容易出現問題。他擔心由釣客團體進行管理，可能會發生該團體遭到釣客指責為圖利，質疑資金運用不透明；有些釣客團體不適當，可能會藉此歛財。釣客一旦發生危險，家屬可能將管理單位告上法院，造成困擾；在違法的時候，釣客團體也難有公權力約束釣客。因此，他建議應由政府經營管理，避免爭議。&lt;/p&gt;
-
-&lt;p&gt;針對這些問題，第二組討論指出，可能需要公開相應的計劃書，確保相應的服務有落實，財務也應該公開透明。安全部分，除了保險外，也應制定安全規定與免責條款。公權力方面，可能要制定相應合理的罰則，並鼓勵釣客錄影存證；不過，有地方政府指出，就算是由政府經營，也常常發生抓不到人的狀況。因此，可能要建置錄影機，並進行人別管制，以確保能抓到違規的釣客。&lt;/p&gt;
-
-&lt;h4 id=&quot;會議有共識-漁會釣魚團體均感謝&quot;&gt;會議有共識 漁會、釣魚團體均感謝&lt;/h4&gt;
-
-&lt;p&gt;最後，全國漁會總幹事表示，他很開心在今天的會場看到大家有共識，很認同漁港開放釣魚不能影響漁船的作業安全與航行安全，也希望釣客未來能共同維護漁港的整潔與美麗。他指出，許多關心議題的漁民很憂心，擔心不適當的開放會引發未來源源不絕的衝突。他希望未來能夠把規則訂定好，管理單位找出來，只要辦的好，就能解除漁民疑慮。他也建議，每個漁港特性不同，無論是否要開放，都要去基層與漁會、漁民溝通，他們也會提出善意的建言。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/e/e2b8da9d43a67857f9fbf4421ae539d4ce9f5840.jpeg&quot; /&gt;
-  &lt;figcaption&gt;全國漁會總幹事發言&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;釣權會也表示，很感謝協作會議的平台讓大家有機會溝通，未來開放之後，釣魚團體也不能光享受而不盡義務。他建議未來除了漁港外，可以規劃在風車附近的區域興建海釣平台，也能讓釣客搭乘漁船到平台上去釣魚。提案人則指出，他們不急著要 50 個釣點，只要能好好溝通、完善規劃與管理，他們願意多等一點時間。&lt;/p&gt;
-
-&lt;p&gt;唐鳳最後則表示，很感謝今日與會者的耐心與建議，協作會議能順利進行，就代表大家有對話意願，這是邁向成功的第一步；由於全場有完整記錄，他會把這些意見帶回行政院整理確認，並忠實反應各方看法給院長、副院長與未來規劃的張景森政委。會議之相關&lt;a href=&quot;https://docs.google.com/document/d/1wJ362_hK8VPj8S2SFk_OzH1NjzPW-rZSfXVPwmLHvHY/edit&quot;&gt;議題手冊&lt;/a&gt;、&lt;a href=&quot;https://miro.com/app/board/o9J_kydvDek=/&quot;&gt;心智圖&lt;/a&gt;、逐字稿、&lt;a href=&quot;https://www.youtube.com/watch?v=Y8sht_NybeE&quot;&gt;直播影片&lt;/a&gt;也將於網路上公開&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;500&quot; title=&quot;realtimeboard&quot; src=&quot;https://miro.com/app/embed/o9J_kydvDek=/?&amp;amp;pres=1&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y8sht_NybeE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;唐鳳也再次澄清，陳其邁副院長的意思是在全國的海岸線盤點出 50 個釣魚的區域，絕不是 50 個漁港，他也想請漁會的朋友能把訊息帶回去給朋友們知道。&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;img src=&quot;https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/dd3b8b9c4c4299a34b1b803aaa54773d4001c877.jpeg&quot; /&gt;
-  &lt;figcaption&gt;唐鳳澄清&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h4 id=&quot;與會者擔憂先射箭再畫靶-期待未來溝通能落實&quot;&gt;與會者擔憂先射箭再畫靶 期待未來溝通能落實&lt;/h4&gt;
-
-&lt;p&gt;有與會者表示，這場會議一開始有點失控，但結果是 ok 的，他很驚訝能利用小組討論把問題一次分析清楚，並且有邏輯、秩序地在短時間內找出解決方法。不過，他們也建議來自基層的朋友要有方式能夠表達意見與參與，否則感受上比較不好。&lt;/p&gt;
-
-&lt;p&gt;在議程上，有另一位與會者表示，之前就有風聲指出要選定 50 處開放釣魚，很擔心這會變成先射箭再畫靶，讓協作會議溝通的美意落空。「政府要做大家有感的事情，不是解決小問題創造大問題」。他十分讚賞會議程序，也很高興會議能有共識，並期待會議共識能在未來落實。&lt;/p&gt;</content><author><name>雨蒼</name></author><category term="blog" /><category term="JOIN平台" /><summary type="html">2019年4月3日，PDIS於八斗子漁會召開協作會議，討論漁港開放釣魚之可行性。釣魚團體與與會漁會代表達成共識，漁港開放釣魚不應影響漁民作業，相關規劃也應該邀集各方一起討論，並落實相關管理。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/f/fce01f91eefae8e261b5acf88f9fc44f147eef04.jpeg" /></entry></feed>
+&lt;p&gt;🌐 這也是第一次，臺美雙方將共同關注的議題，開放讓民眾一起討論。我相信這會成為未來的示範：讓國際合作，不再只是政府與政府的協定，更是人民與人民之間的協力。&lt;/p&gt;</content><author><name>唐鳳、彭筱婷</name></author><category term="blog" /><category term="社會創新" /><summary type="html">這也是第一次，臺美雙方將共同關注的議題，開放讓民眾一起討論。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://talk.pdis.nat.gov.tw/uploads/default/original/2X/6/6e04f33dd4d43861d4f334783209baec38a555bc.jpeg" /></entry></feed>
