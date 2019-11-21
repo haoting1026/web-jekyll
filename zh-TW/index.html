@@ -33,7 +33,7 @@
     
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.3/css/swiper.min.css">
-    <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/materialize.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <link rel="stylesheet" type="text/css" media="screen,projection" href="/assets/main.css">
     <link rel="stylesheet" type="text/css" media="screen,projection" href="/fonts/material-design-icons/material-icons.css">
     <link type="application/atom+xml" rel="alternate" href="https://pdis.nat.gov.tw/zh-TW/feed.xml" />
@@ -65,21 +65,21 @@
     
 
 <nav class="transparent z-depth-0" role="navigation">
-    <div class="nav-wrapper container">
-
-      <!-- Logo -->
-      <a id="logo-container" class="right brand-logo hoverable" style='line-height:0' href="/zh-TW/">
-        <img src="/images/pdis-logo-final-inverse.png" alt="logo" style="height: 64px;">
-      </a>
-      <!--  -->
-
-      <!-- Menu nav -->
-      <ul class="hide-on-med-and-down">
-        <li>
+  <div class="nav-wrapper container">
+    <!-- button of sidenav -->
+    <a href="#" data-target="nav-mobile" class="sidenav-trigger grey-text text-darken-3"><i class="material-icons">menu</i></a>
+    <!-- Logo -->
+    <a id="logo-container" class="right brand-logo hoverable" style='line-height:0' href="/zh-TW/">
+      <img src="/images/pdis-logo-final-inverse.png" alt="logo" style="height: 64px;">
+    </a>
+    <!-- Menu nav -->
+    <ul class="hide-on-med-and-down">
+      <li>
   <a href="/" class="grey-text text-darken-3">
     <i class="material-icons notranslate">home</i>
   </a>
 </li>
+
 <li>
   <a href="/zh-TW/contact" class="grey-text text-darken-3">
     聯絡我們
@@ -91,15 +91,11 @@
     <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
   </a>
   <ul>
-
     <li>
       <a href="/zh-TW/tools" class='grey-text text-darken-3'>工具</a>
     </li>
-
   </ul>
 </li>
-
-
 
 <!-- nested -->
 <li class='drop'>
@@ -107,19 +103,15 @@
     <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
   </a>
   <ul>
-
     <li>
       <a href="/zh-TW/project" class='grey-text text-darken-3'>專案</a>
     </li>
-
     <li>
       <a href="/zh-TW/blog" class='grey-text text-darken-3'>部落格</a>
     </li>
-
     <li>
       <a href="/zh-TW/track" class='grey-text text-darken-3'>工作記錄</a>
     </li>
-
   </ul>
 </li>
 
@@ -137,85 +129,71 @@
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
-      </ul>
-      <!--  -->
-
-      
-      
-
-      <!-- Side nav and Hamburger menu -->
-      <ul id="nav-mobile" class="side-nav">
-        <li>
-  <a href="/" class="grey-text text-darken-3">
-    <i class="material-icons notranslate">home</i>
-  </a>
-</li>
-<li>
-  <a href="/zh-TW/contact" class="grey-text text-darken-3">
-    聯絡我們
-  </a>
-</li>
-
-<li class='drop'>
-  <a class='grey-text text-darken-3'>我們怎麼做
-    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
-  </a>
-  <ul>
-
-    <li>
-      <a href="/zh-TW/tools" class='grey-text text-darken-3'>工具</a>
-    </li>
-
-  </ul>
-</li>
-
-
-
-<!-- nested -->
-<li class='drop'>
-  <a class='grey-text text-darken-3'>我們做了什麼
-    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
-  </a>
-  <ul>
-
-    <li>
-      <a href="/zh-TW/project" class='grey-text text-darken-3'>專案</a>
-    </li>
-
-    <li>
-      <a href="/zh-TW/blog" class='grey-text text-darken-3'>部落格</a>
-    </li>
-
-    <li>
-      <a href="/zh-TW/track" class='grey-text text-darken-3'>工作記錄</a>
-    </li>
-
-  </ul>
-</li>
-
-<li>
-  <div class="search-wrapper">
-    <input class="search-box" placeholder="Search" value="">
-    <i class="material-icons search-button notranslate" onclick="search(this)">search</i>
-    <div class="search-results"></div>
+    </ul>
   </div>
-</li>
-
-<script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
-    window.location.href = "/zh-TW/search/?q=" + q;
-  }
-</script>
-      </ul>
-      <a href="#" data-activates="nav-mobile" class="button-collapse grey-text text-darken-3"><i class="material-icons">menu</i></a>
-      <!--  -->
-
-    </div>
 </nav>
 
+<!-- Sidenav -->
+<ul id="nav-mobile" class="sidenav">
+  <li>
+  <a href="/" class="grey-text text-darken-3">
+    <i class="material-icons notranslate">home</i>
+  </a>
+</li>
 
-        <div class="container">
+<li>
+  <a href="/zh-TW/contact" class="grey-text text-darken-3">
+    聯絡我們
+  </a>
+</li>
+
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們怎麼做
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+    <li>
+      <a href="/zh-TW/tools" class='grey-text text-darken-3'>工具</a>
+    </li>
+  </ul>
+</li>
+
+<!-- nested -->
+<li class='drop'>
+  <a class='grey-text text-darken-3'>我們做了什麼
+    <span class="material-icons notranslate" style="vertical-align:middle">expand_more</span>
+  </a>
+  <ul>
+    <li>
+      <a href="/zh-TW/project" class='grey-text text-darken-3'>專案</a>
+    </li>
+    <li>
+      <a href="/zh-TW/blog" class='grey-text text-darken-3'>部落格</a>
+    </li>
+    <li>
+      <a href="/zh-TW/track" class='grey-text text-darken-3'>工作記錄</a>
+    </li>
+  </ul>
+</li>
+
+<li>
+  <div class="search-wrapper">
+    <input class="search-box" placeholder="Search" value="">
+    <i class="material-icons search-button notranslate" onclick="search(this)">search</i>
+    <div class="search-results"></div>
+  </div>
+</li>
+
+<script>
+  function search(clicked) {
+    q = $(clicked).siblings('.search-box')[0].value;
+    window.location.href = "/zh-TW/search/?q=" + q;
+  }
+</script>
+</ul>
+
+
+      <div class="container">
     <div class="section no-pad-bot" id="index-banner" >
         <div class="swiper-container" style="width:100%">
           <div class="swiper-wrapper">
@@ -327,73 +305,79 @@
     <div class="row">
       
 
-        <div class="col s12 m4">
-          <a href='/zh-TW/project/ray2017/' class="card grey-text text-darken-4 hoverable" style='display:block'>
-            <div class="card-image dim" style='background:url("https://user-images.githubusercontent.com/7321879/30552487-b5ddd068-9cd0-11e7-8773-f94f81af7a7c.png") center / cover no-repeat'>
-              <span class="badge white-text" data-badge-caption="">
+        <div class="col s12 m6 l4">
+          <div class="card grey-text text-darken-4 hoverable">
+            <a href='/zh-TW/project/ray2017/'>
+              <div class="card-image dim" style='background:url("https://user-images.githubusercontent.com/7321879/30552487-b5ddd068-9cd0-11e7-8773-f94f81af7a7c.png") center / cover no-repeat'>
+                <span class="card-title" title='青年學生體檢政府網站數位服務專案'>青年學生體檢政府網站數位服務專案</span>
+              </div>
+            </a>
+            <div class="card-content">
+              <span class="badge new" data-badge-caption="">
                 <i class="material-icons tiny">event</i>
                 <time datetime="" itemprop="datePublished">
                   2017-09-10
                 </time>
               </span>
-            </div>
-            <div class="card-content">
-              <h3 class="card-title" title='青年學生體檢政府網站數位服務專案' style='margin-top:0;font-weight: bold;'>青年學生體檢政府網站數位服務專案</h3>
               <div class='card-proj-content' title='透過「大專學生公部門見習計畫」招募青年學生協作，檢核「行政院所屬的二、三級機關網站」，是否相容於 Safari。'>
                 
-                    透過「大專學生公部門見習計畫」招募青年學生協作，檢核「行政院所屬的二、三級機關網站」，是否相容於 Safari。
+                透過「大專學生公部門見習計畫」招募青年學生協作，檢核「行政院所屬的二、三級機關網站」，是否相容於 Safari。
                 
               </div>
             </div>
-          </a>
+          </div>
         </div>
         
 
       
 
-        <div class="col s12 m4">
-          <a href='/zh-TW/project/emic/' class="card grey-text text-darken-4 hoverable" style='display:block'>
-            <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1454789476662-53eb23ba5907?w=3389") center / cover no-repeat'>
-              <span class="badge white-text" data-badge-caption="">
+        <div class="col s12 m6 l4">
+          <div class="card grey-text text-darken-4 hoverable">
+            <a href='/zh-TW/project/emic/'>
+              <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1454789476662-53eb23ba5907?w=3389") center / cover no-repeat'>
+                <span class="card-title" title='打造災時不會當機的防災資訊系統'>打造災時不會當機的防災資訊系統</span>
+              </div>
+            </a>
+            <div class="card-content">
+              <span class="badge new" data-badge-caption="">
                 <i class="material-icons tiny">event</i>
                 <time datetime="" itemprop="datePublished">
                   2017-05-31
                 </time>
               </span>
-            </div>
-            <div class="card-content">
-              <h3 class="card-title" title='打造災時不會當機的防災資訊系統' style='margin-top:0;font-weight: bold;'>打造災時不會當機的防災資訊系統</h3>
               <div class='card-proj-content' title='結合防災救災兩階段的資料，建立單一資訊查詢入口；改變系統架構，在平時使用最低資源運作，又可以在災害來臨時期自動擴充，因應大爆量的資料查詢。'>
                 
-                    結合防災救災兩階段的資料，建立單一資訊查詢入口；改變系統架構，在平時使用最低資源運作，又可以在災害來臨時期自動擴充，因應大爆量的資料查詢。
+                結合防災救災兩階段的資料，建立單一資訊查詢入口；改變系統架構，在平時使用最低資源運作，又可以在災害來臨時期自動擴充，因應大爆量的資料查詢。
                 
               </div>
             </div>
-          </a>
+          </div>
         </div>
         
 
       
 
-        <div class="col s12 m4">
-          <a href='/zh-TW/project/vege-price/' class="card grey-text text-darken-4 hoverable" style='display:block'>
-            <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=3300") center / cover no-repeat'>
-              <span class="badge white-text" data-badge-caption="">
+        <div class="col s12 m6 l4">
+          <div class="card grey-text text-darken-4 hoverable">
+            <a href='/zh-TW/project/vege-price/'>
+              <div class="card-image dim" style='background:url("https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=3300") center / cover no-repeat'>
+                <span class="card-title" title='跟菜價有關的資訊通通都放在這裡！'>跟菜價有關的資訊通通都放在這裡！</span>
+              </div>
+            </a>
+            <div class="card-content">
+              <span class="badge new" data-badge-caption="">
                 <i class="material-icons tiny">event</i>
                 <time datetime="" itemprop="datePublished">
                   2017-04-06
                 </time>
               </span>
-            </div>
-            <div class="card-content">
-              <h3 class="card-title" title='跟菜價有關的資訊通通都放在這裡！' style='margin-top:0;font-weight: bold;'>跟菜價有關的資訊通通都放在這裡！</h3>
               <div class='card-proj-content' title='要如何應用資訊技術，整合各部會掌握的資訊，而這些資訊也必須轉化為結構化的開放資料，才能在不增加現有部會業務目標下，日復一日即時提供民眾資訊。'>
                 
-                    要如何應用資訊技術，整合各部會掌握的資訊，而這些資訊也必須轉化為結構化的開放資料，才能在不增加現有部會業務目標下，日復一日即時提供民眾資訊。
+                要如何應用資訊技術，整合各部會掌握的資訊，而這些資訊也必須轉化為結構化的開放資料，才能在不增加現有部會業務目標下，日復一日即時提供民眾資訊。
                 
               </div>
             </div>
-          </a>
+          </div>
         </div>
         
 
@@ -427,12 +411,14 @@
 
       
       <a class="collection-item white-text center dim" href="/zh-TW/blog/%E4%BA%BA%E6%89%8D%E4%B8%8D%E6%98%AF%E6%B5%81%E5%A4%B1-%E8%80%8C%E6%98%AF%E5%BE%AA%E7%92%B0/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/d2d9c7bf3088d67c5150e2e658a5dcae2f3a6e66.png') center / cover">
-        <h3 class="title">蘋果專欄：人才不是流失 而是循環</h3>
-        <i class="material-icons tiny">event</i>
-        <time datetime="" itemprop="datePublished">
+        <span class="new badge right" data-badge-caption="">
+          <i class="material-icons tiny">event</i>
+          <time datetime="" itemprop="datePublished">
             2019-11-17
-        </time>
-        <p class='container'>
+          </time>
+        </span>
+        <h5 class="title">蘋果專欄：人才不是流失 而是循環</h5>
+        <p class='content container'>
            
                台灣是各國旅外人士心目中「最佳的移居與工作地點」。
            
@@ -440,12 +426,14 @@
       </a>
       
       <a class="collection-item white-text center dim" href="/zh-TW/blog/%E5%BE%97%E5%85%B6%E6%AD%A1%E6%A8%82/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/bd6de5956479ae028b84d4b3c6e9196d9bf766f1.jpeg') center / cover">
-        <h3 class="title">得其歡樂</h3>
-        <i class="material-icons tiny">event</i>
-        <time datetime="" itemprop="datePublished">
+        <span class="new badge right" data-badge-caption="">
+          <i class="material-icons tiny">event</i>
+          <time datetime="" itemprop="datePublished">
             2019-11-14
-        </time>
-        <p class='container'>
+          </time>
+        </span>
+        <h5 class="title">得其歡樂</h5>
+        <p class='content container'>
            
                勇敢自信、不被分化的臺灣，是所有答案的前提。
            
@@ -453,12 +441,14 @@
       </a>
       
       <a class="collection-item white-text center dim" href="/zh-TW/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%B8%8D%E5%8F%AA%E5%85%B1%E5%90%8C%E8%B5%B7%E6%BA%90-%E6%9B%B4%E8%A6%81%E5%88%86%E4%BA%AB%E6%9C%AA%E4%BE%86/" style="background:url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/0ce59c16b3a62d6c85908d7370e1fe69664dacd0.jpeg') center / cover">
-        <h3 class="title">商周專欄：不只共同起源，更要分享未來</h3>
-        <i class="material-icons tiny">event</i>
-        <time datetime="" itemprop="datePublished">
+        <span class="new badge right" data-badge-caption="">
+          <i class="material-icons tiny">event</i>
+          <time datetime="" itemprop="datePublished">
             2019-11-14
-        </time>
-        <p class='container'>
+          </time>
+        </span>
+        <h5 class="title">商周專欄：不只共同起源，更要分享未來</h5>
+        <p class='content container'>
            
                我認為，這次在人類共同的故鄉討論社會創新，確實意義非凡。
            
@@ -467,9 +457,9 @@
       
     </div>
 
-    <div class='section'>
+    <div class='section center'>
     
-      <div class="center">
+      <div>
         <a href="/zh-TW/blog" class="btn waves-effect waves-light cyan">
           更多部落格
           <i class="material-icons right notranslate">send</i>
@@ -494,12 +484,12 @@
         <h5 class="grey-text text-darken-3">關於 PDIS</h5>
         <p class="grey-text text-darken-3">我們協助政府部會提升數位服務品質，以創新方式改善和增進公務體系的工作流程、方針規則及使用工具。</p>
         <div class='about-logos section'>
-          <a href="//pdis.nat.gov.tw"> <img alt="logo" class="circle hoverable" src="/images/pdis-logo-final-inverse.png" style="width:3rem;vertical-align:bottom;"> </a>
-          <a href="//www.youtube.com/PdisTwGov" target="_blank"> <i class="fa fa-3x fa-youtube-play"></i> </a>
-          <a href="//github.com/pdis/web-jekyll" target="_blank"> <i class="fa fa-3x fa-github"></i> </a>
-          <a href="//www.facebook.com/shu.w.zhengwei" target="_blank"> <i class="fa fa-3x fa-facebook-square"></i> </a>
-          <a href="//twitter.com/TaiwanPDIS" target="_blank"> <i class="fa fa-3x fa-twitter-square"></i> </a>
-        </div>
+          <a href="//pdis.nat.gov.tw"> <img alt="logo" class="circle hoverable" src="/images/pdis-logo-final-inverse.png" style="width:56px;vertical-align:bottom;"> </a>
+          <a class="btn-floating btn-large waves-effect waves-circle cyan" href="//www.youtube.com/PdisTwGov" target="_blank"> <i class="fa fa-3x fa-youtube-play"></i> </a>
+          <a class="btn-floating btn-large waves-effect waves-circle cyan" href="//github.com/pdis/web-jekyll" target="_blank"> <i class="fa fa-3x fa-github"></i> </a>
+          <a class="btn-floating btn-large waves-effect waves-circle cyan" href="//www.facebook.com/shu.w.zhengwei" target="_blank"> <i class="fa fa-3x fa-facebook-square"></i> </a>
+          <a class="btn-floating btn-large waves-effect waves-circle cyan" href="//twitter.com/TaiwanPDIS" target="_blank"> <i class="fa fa-3x fa-twitter-square"></i> </a>
+          </div>
         <div class="about-logos section">
           <a href="https://twitter.com/TaiwanTodayJP" target="_blank"> <span class="flag-icon flag-icon-jp"></span> </a>
           <a href="https://twitter.com/taiwanheute" target="_blank"> <span class="flag-icon flag-icon-de"></span> </a>
@@ -560,36 +550,23 @@
         </ul>
       </div>
     </div>
-  </div>          
+  </div>
 </footer>
 
 
-    <!--  Scripts-->
-<script src="/js/jquery.min.js"></script>
-<script src="/js/materialize.min.js"></script>
-<script src="/js/init.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.3/js/swiper.min.js"></script>
-
-<script>
-var mySwiper = new Swiper ('.swiper-container', {
-  direction: 'horizontal',
-  loop: false,
-  pagination: {
-    el: '.swiper-pagination',
-  },
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    <!-- google translate button -->
+<div id="google_translate_element" class="translate-widget"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
   }
-})
 </script>
-    
-    <div id="google_translate_element" class="translate-widget"></div><script type="text/javascript">
-      function googleTranslateElementInit() {
-        new google.translate.TranslateElement({pageLanguage: 'zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
-      }
-      </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-              
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<!-- Scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.0.3/js/swiper.min.js"></script>
+<script src="/js/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script src="/js/init.js"></script>
 
   </body>
 
