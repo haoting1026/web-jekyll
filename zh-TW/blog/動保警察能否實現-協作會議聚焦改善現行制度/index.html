@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">動保警察能否實現？協作會議聚焦改善現行制度</h1>
         <p class="post-desc container">2018 年 3 月 31 日，PDIS 於財政部資訊中心召開協作會議，討論台灣的動物保護制度，釐清台灣目前動物保護政策落實上的困難之處，以及動保員、警察在動保案件上的分工方式。</p>
@@ -319,8 +318,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%B9%BE%E5%80%8B%E5%B0%8F%E6%A2%9D%E6%96%87-%E8%AE%93%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/9/96d0477d55ad51fa59ef9929100ef78c238d0908.jpg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>幾個小條文，讓政府提供更好的數位服務</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E6%9C%AA%E5%A9%9A%E5%A5%B3%E5%AD%90%E8%83%BD%E5%90%A6%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%94%9F%E6%AE%96-%E6%AD%A3%E5%8F%8D%E9%9B%99%E6%96%B9%E7%84%A1%E5%85%B1%E8%AD%98/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/0/0202729ee380f76be840ca1d873218ac133bed9c.JPG') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>未婚女子能否使用人工生殖？正反雙方無共識</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -388,15 +410,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

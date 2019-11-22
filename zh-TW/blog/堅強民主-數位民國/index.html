@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">堅強民主 數位民國</h1>
         <p class="post-desc container">在臺灣，以人工智慧為基礎的線上平台有效地防堵網路小白，並讓公民有機會發表自己的意見。</p>
@@ -283,8 +282,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/2020-%E4%BA%9E%E5%A4%AA%E7%A4%BE%E4%BC%81%E9%AB%98%E5%B3%B0%E6%9C%83%E5%9C%A8%E6%A1%83%E5%9C%92/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/d121856e14443e4de5b39978ed77d84c5b8dc0b0.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>蘋果專欄：2020 亞太社企高峰會在桃園</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%85%AC%E5%8B%99%E5%93%A1%E4%B9%9F%E8%83%BD%E6%93%94%E4%BB%BB-%E5%9C%8B%E9%9A%9B%E9%9D%9E%E7%87%9F%E5%88%A9%E7%B5%84%E7%B9%94%E7%84%A1%E7%B5%A6%E8%81%B7%E7%90%86%E4%BA%8B/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/f/f50428cabfed29d9ff4add66e64ef83e8e167b41.jpeg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>蘋果專欄：公務員也能擔任「國際非營利組織無給職理事」</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -352,15 +374,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

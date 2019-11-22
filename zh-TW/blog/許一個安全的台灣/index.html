@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">蘋果專欄：許一個安全的台灣</h1>
         <p class="post-desc container">除了觀察與評論這件國家大事，「數位對話」也給了大家一個難得實際參與，推波助瀾的機會。</p>
@@ -257,8 +256,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E5%A4%A7%E5%AD%B8%E8%88%87%E7%A4%BE%E5%89%B5%E7%9A%84%E8%B7%9D%E9%9B%A2/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/8/8684ab48f4ab0d2f6a57471f21535170c04e093e.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>商周專欄：大學與社創的距離</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/2020-%E4%BA%9E%E5%A4%AA%E7%A4%BE%E4%BC%81%E9%AB%98%E5%B3%B0%E6%9C%83%E5%9C%A8%E6%A1%83%E5%9C%92/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/d121856e14443e4de5b39978ed77d84c5b8dc0b0.jpeg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>蘋果專欄：2020 亞太社企高峰會在桃園</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -326,15 +348,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

@@ -118,8 +118,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -179,8 +179,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -441,15 +441,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">How far is the rough consensus to the policy announcement? After the press conference in the southern island of Wuhu</h1>
         <p class="post-desc container">After the Luhu case was held on November 3, the political commissar Tang Feng reported to the Chief Executive Lai Qingde with relevant information obtained at the meeting and provided relevant information to the relevant heads of the ministries for reference. Dean Lai hopes to release the results of the Penghu case to the public in the form of a press conference. Therefore, the proposals discussed at the Wuhu Collaborative Meeting have room for further implementation.</p>
@@ -286,8 +285,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E9%9E%AD%E5%88%91%E6%A1%88%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E8%81%9A%E7%84%A6%E5%8F%8D%E9%85%92%E9%A7%95-%E8%88%87%E6%9C%83%E8%80%85%E6%9C%9B%E8%83%BD%E6%9C%89%E5%85%B7%E9%AB%94%E6%88%90%E6%9E%9C/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/5/593c72310c46a367ab711446a4ce5c82914d036b_1_690x388.JPG') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>The whipping case collaboration meeting focused on anti-drunk driving. Participants hope to have concrete results.</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/Persona%E8%83%BD%E5%BC%95%E5%85%A5%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E5%97%8E-%E5%81%A5%E4%BF%9D%E6%A1%88%E7%9A%84%E5%89%B5%E6%96%B0%E5%98%97%E8%A9%A6/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/a/ab27015e7399999bd84628fa790ecb54e9302f95.JPG') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>Can Persona introduce collaborative meetings? Innovative attempts in the health insurance case</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -355,15 +377,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

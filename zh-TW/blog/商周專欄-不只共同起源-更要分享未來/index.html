@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">商周專欄：不只共同起源，更要分享未來</h1>
         <p class="post-desc container">我認為，這次在人類共同的故鄉討論社會創新，確實意義非凡。</p>
@@ -259,8 +258,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/Taiwan-Can-Help-%E5%9C%A8%E6%9B%BC%E8%B0%B7/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/6/66f950eecd95b45469cbb174f3f7d4dee281c484.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>蘋果專欄：Taiwan Can Help 在曼谷</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%BE%97%E5%85%B6%E6%AD%A1%E6%A8%82/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/bd6de5956479ae028b84d4b3c6e9196d9bf766f1.jpeg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>得其歡樂</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -328,15 +350,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

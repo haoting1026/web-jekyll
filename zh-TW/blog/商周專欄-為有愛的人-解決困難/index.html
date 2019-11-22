@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">商周專欄：為有愛的人 解決困難</h1>
         <p class="post-desc container">很多人好奇，數位政委的工作是什麼？其中一項業務，是看似無關的社會企業。為什麼是「社會企業」？</p>
@@ -271,8 +270,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/Persona%E8%83%BD%E5%BC%95%E5%85%A5%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E5%97%8E-%E5%81%A5%E4%BF%9D%E6%A1%88%E7%9A%84%E5%89%B5%E6%96%B0%E5%98%97%E8%A9%A6/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/a/ab27015e7399999bd84628fa790ecb54e9302f95.JPG') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>Persona 能引入協作會議嗎？健保案的創新嘗試</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%B8%8D%E8%A6%81%E8%87%89%E5%85%AC%E5%9C%92-%E7%9A%84%E8%83%8C%E5%BE%8C/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/d/d26bf4ab9acae71c91fbc4ae5b3f434f04df373a.jpg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>商周專欄：「不要臉公園」的背後</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -340,15 +362,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

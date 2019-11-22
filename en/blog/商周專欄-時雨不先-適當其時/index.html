@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">When the rain is not first, the appropriate time</h1>
         <p class="post-desc container">During the UN General Assembly in September this year, I met a friend in New York who could almost describe it as a "legend".</p>
@@ -265,8 +264,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%B0%91%E4%B8%BB%E5%BE%9E%E8%AA%B0%E5%BE%97%E6%8C%87%E5%8D%97/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/6/6da4e52684f8769ebca1b18ddfe725b918a9dd4c.jpg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>Who gets the guide from democracy?</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E6%9D%B1%E6%B2%99%E5%B3%B6%E8%83%BD%E5%90%A6%E9%96%8B%E6%94%BE%E7%94%9F%E6%85%8B%E6%97%85%E9%81%8A-%E8%88%87%E6%9C%83%E8%80%85%E5%BB%BA%E8%AD%B0%E5%BE%9E%E8%88%B9%E5%AE%BF%E6%BD%9B%E6%B0%B4%E9%96%8B%E5%A7%8B%E9%96%8B%E6%94%BE/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/5/508e98724d451ff4cbb7619580698debd7d29885.JPG') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>Can Dongsha Island open up ecotourism? Participants suggested opening from the boat dive</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -334,15 +356,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/zh-TW/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">汽燃費協作會議有共識，隨里程徵收更公平</h1>
         <p class="post-desc container">PDIS於11月30日與交通部於財資中心舉辦第41次協作會議。為了協助討論，PDIS團隊設計了新的表格方便與會者討論，與會者認為交通部的隨里程徵收方案較隨油徵收公平。</p>
@@ -337,8 +336,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png"></a>（本著作係採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%81%A5%E4%BF%9D%E5%8D%A1%E5%A6%82%E4%BD%95%E8%99%9B%E6%93%AC%E5%8C%96-%E4%B8%89%E5%A0%B4%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E9%87%90%E6%B8%85%E5%8F%AF%E8%83%BD%E6%96%B9%E5%90%91/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/9/9fd5e06598a09b02315606da910ee6b4fece38a7.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>健保卡如何虛擬化？三場協作會議釐清可能方向</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0-%E9%96%8B%E6%BA%90%E6%B0%B8%E7%BA%8C/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/c/c2fc370f07085dd84216a64f6fc6f7aa11d19dd5.JPG') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>商周專欄：民主創新，開源永續</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -406,15 +428,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">數位經濟法規線上討論平台</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

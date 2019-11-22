@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">Five pillars to keep the winter warm</h1>
         <p class="post-desc container">If all goes well, Taiwan's NAB will have the chance to become GSG's fourth member in Asia at the end of this year.</p>
@@ -259,8 +258,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%8B%95%E4%BF%9D%E5%93%A1%E8%83%BD%E9%87%8F%E4%B8%8D%E8%B6%B3-%E5%8B%95%E4%BF%9D%E5%8A%A0%E9%87%8D%E7%BD%B0%E5%89%87%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E8%81%9A%E7%84%A6%E5%85%AC%E7%A7%81%E5%8D%94%E5%8A%9B/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/4/48530d8e77a51c4d83e27e2a3126ebaee9292eae.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>Insufficient energy for the invigilators, aggravated penalty, and a collaborative meeting focused on public-private partnerships</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%A6%82%E4%BD%95%E6%94%B9%E5%96%84%E9%96%8B%E6%94%BE%E6%94%BF%E5%BA%9C%E8%81%AF%E7%B5%A1%E4%BA%BA%E5%88%B6%E5%BA%A6-%E5%85%B1%E8%AD%98%E7%87%9F%E8%A8%8E%E8%AB%96%E5%8F%AF%E8%83%BD%E8%A7%A3%E6%B3%95/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/c/c4ac5099d0d4987a72b3011c962a788457300a37.jpeg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>How to improve the open government contact system? Consensus camp discussion possible solution</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -328,15 +350,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

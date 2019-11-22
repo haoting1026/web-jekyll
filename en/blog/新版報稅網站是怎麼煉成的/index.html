@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">How is the new tax filing website made?</h1>
         <p class="post-desc container">Tax filing software is difficult to use. Zhuo Zhiyuan, the proponent of the explosion proposal, first understands the world in which the problem lies and then proposes a change. Design is not about making a product, but about how many roles and how many touch points are needed to solve the problem.</p>
@@ -295,8 +294,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8%E6%AF%94%E8%BC%83%E7%92%B0%E4%BF%9D-%E5%8D%94%E4%BD%9C%E6%9C%83%E8%AD%B0%E5%BB%BA%E8%AD%B0%E6%BE%84%E6%B8%85%E8%B3%87%E8%A8%8A/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/bdaa29304fe0caa143d5fcb8dfc8cdc0c2958b0e.JPG') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>Electronic invoices are more environmentally friendly! Collaborative meeting suggestions to clarify information</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%9C%A8%E9%B1%89%E8%91%89%E7%9A%84%E5%95%9F%E7%A4%BA/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/b/b3847c96045edae82bc127c07d93ade99863b151.jpg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>Revelation of Hibiscus</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -364,15 +386,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

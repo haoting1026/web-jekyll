@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">Insufficient energy for the invigilators, aggravated penalty, and a collaborative meeting focused on public-private partnerships</h1>
         <p class="post-desc container">On December 27, 2018, PDIS held a collaborative meeting on the aggravation of penalties by the Law on Insurance. The meeting focused on how to implement the concept of animal protection as disclosed in the Sports Protection Law through public-private partnerships to protect more animals from harassment, injury and even kill.</p>
@@ -314,8 +313,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E6%B0%91%E4%B8%BB%E5%89%B5%E6%96%B0-%E9%96%8B%E6%BA%90%E6%B0%B8%E7%BA%8C/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/c/c2fc370f07085dd84216a64f6fc6f7aa11d19dd5.JPG') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>Democratic Innovation, Open Source Sustainability</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%95%E6%89%80%E5%86%AC%E6%9A%96-%E4%BA%94%E5%AE%B6%E7%82%BA%E9%84%B0/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/optimized/2X/0/0eb95b1632fcac7b85a35f55c75fabbfa5a9f585_2_1332x1000.jpg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>Five pillars to keep the winter warm</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -383,15 +405,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>

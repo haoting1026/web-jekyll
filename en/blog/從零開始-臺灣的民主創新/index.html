@@ -124,8 +124,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -185,8 +185,8 @@
 </li>
 
 <script>
-  function search(clicked) {
-    q = $(clicked).siblings('.search-box')[0].value;
+  function search(e) {
+    q = e.previousElementSibling.value;
     window.location.href = "/en/search/?q=" + q;
   }
 </script>
@@ -200,7 +200,6 @@
 <div class="container">
   <div class="section">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">Starting from Zero: Taiwan&#39;s democratic innovation</h1>
         <p class="post-desc container">Audrey Tang, Digital Minister of Taiwan, believes that the most important thing is the spirit of public dialogue and collaboration.</p>
@@ -287,8 +286,31 @@
           <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>（This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.）
         
       </div>
+    </article>
 
-	  </article>
+    <div class="navigate row">
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E5%95%86%E5%91%A8%E5%B0%88%E6%AC%84-%E4%BD%A0%E4%BE%86%E8%A8%B1%E9%A1%98-%E5%85%A8%E6%B0%91-%E9%82%84%E9%A1%98/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/4/4cd56562902bcfb46c32309b5d438cbdc4d1dc2d.jpeg') center / cover">
+            <i class="left medium material-icons">navigate_before</i>
+            <h6>You make a wish, the whole people are ”willing to”</h6>
+          </div>
+        </a>
+        
+      </div>
+      <div class="col s12 m6">
+        
+        <a href="/blog/%E6%BC%81%E6%B8%AF%E9%96%8B%E6%94%BE%E6%9C%89%E5%85%B1%E8%AD%98-%E9%87%A3%E9%AD%9A%E4%B8%8D%E6%87%89%E5%BD%B1%E9%9F%BF%E6%BC%81%E6%B0%91%E4%BD%9C%E6%A5%AD/https://pdis.nat.gov.tw">
+          <div class="card-panel white-text dim" style="background: url('https://talk.pdis.nat.gov.tw/uploads/default/original/2X/f/fce01f91eefae8e261b5acf88f9fc44f147eef04.jpeg') center / cover">
+            <i class="right medium material-icons">navigate_next</i>
+            <h6>There is a consensus on the opening of fishing ports: fishing should not affect the operation of fishermen</h6>
+          </div>
+        </a>
+        
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -356,15 +378,6 @@
           
             
             <li><p><a class="grey-text text-darken-3" href="https://vtaiwan.tw/">vTaiwan.tw</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.facebook.com/shu.w.zhengwei">Facebook</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://twitter.com/TaiwanPDIS">Twitter</a></p></li>
-          
-            
-            <li><p><a class="grey-text text-darken-3" href="https://www.youtube.com/channel/UCExDf4hkbSU-pmJcyT_sDtg">YouTube</a></p></li>
           
         </ul>
       </div>
